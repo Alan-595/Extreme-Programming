@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa424a19-5ad3-4719-8ed9-0177268ed6d1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.1\workjar" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2ZUaK89Kr5PlFkg4V4gnN7iX08Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ich-vue" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\接单\springboot+html-智慧建党\wisdom-party-building-java\src\main\resources\template\img" />
+      <recent name="F:\接单\springboot+html-智慧建党\wisdom-party-building-java\src\main\resources\template" />
+      <recent name="F:\接单\sprinboot+html-在线云盘\online-cloud-disk\src\main\resources\pdftemp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.phone.commons.config" />
+      <recent name="com.phone.commons.utils" />
+      <recent name="com.health.modules.vo" />
+      <recent name="com.health.modules.service" />
+      <recent name="com.health.modules.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PhoneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="phone-java" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.phone.PhoneApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa424a19-5ad3-4719-8ed9-0177268ed6d1" name="Changes" comment="" />
+      <created>1702479044960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702479044960</updated>
+      <workItem from="1702479046996" duration="4016000" />
+      <workItem from="1702535956796" duration="595000" />
+      <workItem from="1702569491047" duration="3470000" />
+      <workItem from="1702622796163" duration="21642000" />
+      <workItem from="1702651887168" duration="1601000" />
+      <workItem from="1702694341730" duration="115000" />
+      <workItem from="1702694471972" duration="1898000" />
+      <workItem from="1702696391628" duration="20000" />
+      <workItem from="1702701666006" duration="1917000" />
+      <workItem from="1702703611425" duration="629000" />
+      <workItem from="1702746406974" duration="4003000" />
+      <workItem from="1702789328517" duration="27016000" />
+      <workItem from="1702881702348" duration="528000" />
+      <workItem from="1702882248822" duration="615000" />
+      <workItem from="1702891828319" duration="646000" />
+      <workItem from="1703164381009" duration="12007000" />
+      <workItem from="1703305486914" duration="625000" />
+      <workItem from="1703674977097" duration="3319000" />
+      <workItem from="1706276736159" duration="1214000" />
+      <workItem from="1706335941324" duration="7144000" />
+      <workItem from="1706412430264" duration="24063000" />
+      <workItem from="1706538032409" duration="5048000" />
+      <workItem from="1706623439092" duration="3175000" />
+      <workItem from="1706787673812" duration="606000" />
+      <workItem from="1706878216754" duration="1461000" />
+      <workItem from="1706940275825" duration="14893000" />
+      <workItem from="1707044353570" duration="12780000" />
+      <workItem from="1707115208113" duration="7108000" />
+      <workItem from="1707228516737" duration="3529000" />
+      <workItem from="1707306444891" duration="7240000" />
+      <workItem from="1707370636871" duration="17669000" />
+      <workItem from="1707533645161" duration="1186000" />
+      <workItem from="1707629800189" duration="25000" />
+      <workItem from="1707629859809" duration="14000" />
+      <workItem from="1708173416798" duration="707000" />
+      <workItem from="1708175290397" duration="117000" />
+      <workItem from="1708691734146" duration="2957000" />
+      <workItem from="1708761592887" duration="2878000" />
+      <workItem from="1708831730166" duration="595000" />
+      <workItem from="1709465509562" duration="192000" />
+      <workItem from="1711036504824" duration="208000" />
+      <workItem from="1711710891435" duration="608000" />
+      <workItem from="1711719660898" duration="1532000" />
+      <workItem from="1711790967183" duration="2969000" />
+      <workItem from="1711855265253" duration="9055000" />
+      <workItem from="1711900016425" duration="4590000" />
+      <workItem from="1711946480131" duration="18657000" />
+      <workItem from="1711993674435" duration="1852000" />
+      <workItem from="1712041953565" duration="33000" />
+      <workItem from="1713357782502" duration="11671000" />
+      <workItem from="1713410978915" duration="6095000" />
+      <workItem from="1713432767009" duration="301000" />
+      <workItem from="1713439368869" duration="709000" />
+      <workItem from="1713956368506" duration="2000" />
+      <workItem from="1714277012555" duration="701000" />
+      <workItem from="1726932001653" duration="815000" />
+      <workItem from="1732349684220" duration="1071000" />
+      <workItem from="1732351013869" duration="6791000" />
+      <workItem from="1732361558584" duration="1037000" />
+      <workItem from="1732442012878" duration="85000" />
+      <workItem from="1732442255760" duration="439000" />
+      <workItem from="1732442742939" duration="861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="application.yml" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/health/modules/controller/NewsController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/home_java$HomeApplication.ic" NAME="HomeApplication Coverage Results" MODIFIED="1707382147986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.home.*</FILTER>
+    </SUITE>
+  </component>
+</project>
